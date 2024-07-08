@@ -1,0 +1,13 @@
+*
+!node_modules/
+!.angular/
+!.git/
+!.vscode/
+!.ipynb_checkpoints/
+!modules/
+!.venv/
+!Lib/
+!.vs/
+!x64/
+!Debug/
+!mnist_dataset/
